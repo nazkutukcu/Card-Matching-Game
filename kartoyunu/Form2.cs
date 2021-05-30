@@ -48,11 +48,6 @@ namespace kartoyunu
        
         private void resimleriKaristir()
         {
-            time = 60;
-            puan = 0;
-            label4.Text = puan.ToString();
-            timer1.Start();
-            
             Random rnd = new Random();
 
            for(int i=0; i < 10; i++)
@@ -114,6 +109,7 @@ namespace kartoyunu
                     if (bulunan == 5)
                     {
                         timer1.Stop();
+                       
                         //uyarı ekranı
                         MessageBox2 m2 = new MessageBox2();
                         m2.Show();
@@ -124,8 +120,10 @@ namespace kartoyunu
                         {
                             kontrol.Visible = true;
                         }
-                        resimleriKaristir();                      
+
+                        resimleriKaristir();
                     }
+                    
                 }
                 else
                 {
@@ -135,6 +133,7 @@ namespace kartoyunu
                     kutu.Enabled = true;
                 }
                 ilkkutu = null;
+               
             }
             
         }

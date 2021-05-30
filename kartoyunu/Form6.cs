@@ -54,10 +54,7 @@ namespace kartoyunu
 
         private void resimleriKaristir()
         {
-            time = 135;
-            puan = 0;
-            label4.Text = puan.ToString();
-            timer1.Start();
+            
 
             Random rnd = new Random();
 

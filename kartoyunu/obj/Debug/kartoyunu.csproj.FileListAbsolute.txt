@@ -12,8 +12,6 @@ C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.pdb
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.Form3.resources
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.Form5.resources
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.Form6.resources
-C:\Users\naz\source\repos\kartoyunu\kartoyunu\bin\Debug\WinFormAnimation.dll
-C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.csproj.CopyComplete
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.MessageBox1.resources
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.MessageBox2.resources
 C:\Users\naz\source\repos\kartoyunu\kartoyunu\obj\Debug\kartoyunu.MessageBox3.resources
